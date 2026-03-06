@@ -1,0 +1,1 @@
+INSERT INTO `实时风险大盘2：渠道实时风险对比` (`channel`, `total_orders`, `fraud_orders`, `total_amount`, `fraud_amount`, `fraud_rate_percent`, `avg_order_amount`, `风险等级`) VALUES ('H5', 1, 1, 1500.00, 1500.00, 100.00, 1500.000000, '高危');

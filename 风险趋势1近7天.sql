@@ -1,0 +1,7 @@
+INSERT INTO `风险趋势1近7天` (`datetime1`, `total_orders`, `fraud_orders`, `total_amount`, `fraud_amount`, `fraud_order_percent`, `欺诈率环比变化`, `风险状态`) VALUES ('2024-01-02', 5, 1, 52800.00, 1500.00, 0.20, NULL, '正常');
+INSERT INTO `风险趋势1近7天` (`datetime1`, `total_orders`, `fraud_orders`, `total_amount`, `fraud_amount`, `fraud_order_percent`, `欺诈率环比变化`, `风险状态`) VALUES ('2024-01-03', 5, 0, 99850.00, 0.00, 0.00, -1.000000, '正常');
+INSERT INTO `风险趋势1近7天` (`datetime1`, `total_orders`, `fraud_orders`, `total_amount`, `fraud_amount`, `fraud_order_percent`, `欺诈率环比变化`, `风险状态`) VALUES ('2024-01-04', 10, 2, 133150.00, 2300.00, 0.20, NULL, '预警');
+INSERT INTO `风险趋势1近7天` (`datetime1`, `total_orders`, `fraud_orders`, `total_amount`, `fraud_amount`, `fraud_order_percent`, `欺诈率环比变化`, `风险状态`) VALUES ('2024-01-05', 10, 1, 138750.00, 15000.00, 0.10, -0.500000, '正常');
+INSERT INTO `风险趋势1近7天` (`datetime1`, `total_orders`, `fraud_orders`, `total_amount`, `fraud_amount`, `fraud_order_percent`, `欺诈率环比变化`, `风险状态`) VALUES ('2024-01-06', 10, 0, 158400.00, 0.00, 0.00, -1.000000, '正常');
+INSERT INTO `风险趋势1近7天` (`datetime1`, `total_orders`, `fraud_orders`, `total_amount`, `fraud_amount`, `fraud_order_percent`, `欺诈率环比变化`, `风险状态`) VALUES ('2024-01-07', 10, 1, 136200.00, 550.00, 0.10, NULL, '正常');
+INSERT INTO `风险趋势1近7天` (`datetime1`, `total_orders`, `fraud_orders`, `total_amount`, `fraud_amount`, `fraud_order_percent`, `欺诈率环比变化`, `风险状态`) VALUES ('2024-01-08', 5, 0, 83450.00, 0.00, 0.00, -1.000000, '正常');
